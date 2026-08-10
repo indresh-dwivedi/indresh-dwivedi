@@ -10,3 +10,4 @@
 - 🧩 Interested in Scalable APIs, Authentication & System Design
 - 🚀 Open to collaboration and developer opportunities
 - 📚 Always learning. Always building. Always improving.
+- 🎯 Currently preparing for Software Developer / Full-Stack Developer opportunities
