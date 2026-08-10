@@ -4,7 +4,7 @@
 <!-- GIF -->
 <img align="right" height="300" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
-💻 About Me
+💻 About Me :
 - 🔭 Currently building MERN Stack projects
 - 🌱 Learning Backend Development, Cloud & DevOps
 - 💻 Working with JavaScript, React, Node.js, Express & MongoDB
