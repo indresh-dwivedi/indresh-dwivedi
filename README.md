@@ -1,5 +1,5 @@
-## Hi there 👋
-
+<!-- Header Section -->
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=1EF2F7&background=25FF5600&center=true&vCenter=true&random=true&width=435&lines=Hi%F0%9F%91%8B%2C+I+am+Indresh+Dwivedi" alt="Typing SVG" /></a>
 <!--
 **indresh-dwivedi/indresh-dwivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
