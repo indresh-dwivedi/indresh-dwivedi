@@ -4,11 +4,13 @@
 <!-- GIF -->
 <img align="right" height="300" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
-💻 About Me :
-- 🔭 Currently building MERN Stack projects
-- 🌱 Learning Backend Development, Cloud & DevOps
-- 💻 Working with JavaScript, React, Node.js, Express & MongoDB
+## 💻 About Me
+
+- 🚀 Building Full-Stack Web Applications with the MERN Stack
+- 🎨 Focused on Frontend Development using React, JavaScript & TypeScript
+- ⚙️ Building Backend APIs with Node.js & Express.js
+- 🗄️ Working with MongoDB & Mongoose
 - 🧩 Interested in Scalable APIs, Authentication & System Design
-- 🚀 Open to collaboration and developer opportunities
-- 📚 Always learning. Always building. Always improving.
-- 🎯 Currently preparing for Software Developer / Full-Stack Developer opportunities.
+- ☁️ Exploring Cloud & DevOps
+- 🔨 Learning by building real-world projects
+- 🎯 Open to Software Developer / Full-Stack Developer opportunities
