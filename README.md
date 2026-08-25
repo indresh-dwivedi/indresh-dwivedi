@@ -19,8 +19,8 @@ class IndreshDwivedi {
         return {
             frontend: ["JavaScript", "TypeScript", "React.js",
                        "Tailwind CSS", "HTML"],
-            backend: ["Node.js", "Express.js", "REST APIs"],
-            database: ["MongoDB", "Mongoose", "SQL", "MySql]
+            backend: ["Node.js", "Express.js", "REST APIs", "JWT"],
+            database: ["MongoDB", "Mongoose", "SQL", "MySql"]
         };
     }
 
