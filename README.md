@@ -7,6 +7,7 @@
 
 ## 🧬 `/about_me`
 
+```javascript
 class IndreshDwivedi {
     constructor() {
         this.name = "Indresh Dwivedi";
