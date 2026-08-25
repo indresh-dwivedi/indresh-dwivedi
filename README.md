@@ -5,13 +5,60 @@
 <img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 
-💻 About Me :
+## 🧬 `/about_me`
 
-- 🚀 Building Full-Stack Web Applications with the MERN Stack
-- 🎨 Focused on Frontend Development using React, JavaScript & TypeScript
-- ⚙️ Building Backend APIs with Node.js & Express.js
-- 🗄️ Working with MongoDB & Mongoose
-- 🧩 Interested in Scalable APIs, Authentication & System Design
-- ☁️ Exploring Cloud & DevOps
-- 🔨 Learning by building real-world projects
-- 🎯 Open to Software Developer / Full-Stack Developer opportunities
+class IndreshDwivedi {
+    constructor() {
+        this.name = "Indresh Dwivedi";
+        this.role = "Full-Stack Developer";
+        this.focus = "Frontend & Backend Development";
+        this.stack = "MERN + TypeScript";
+    }
+
+    get skills() {
+        return {
+            frontend: [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "TypeScript",
+                "React.js",
+                "Tailwind CSS"
+            ],
+
+            backend: [
+                "Node.js",
+                "Express.js",
+                "REST APIs",
+                "JWT Authentication"
+            ],
+
+            database: [
+                "MongoDB",
+                "Mongoose"
+            ],
+
+            tools: [
+                "Git",
+                "GitHub",
+                "Postman"
+            ]
+        };
+    }
+
+    currently() {
+        return [
+            "🚀 Building Full-Stack MERN projects",
+            "🎨 Improving Frontend skills with React & TypeScript",
+            "⚙️ Deepening Backend & API development",
+            "☁️ Exploring Cloud & DevOps",
+            "🧩 Learning scalable architecture & System Design"
+        ];
+    }
+
+    goal() {
+        return "Become a skilled Software / Full-Stack Developer";
+    }
+}
+
+const indresh = new IndreshDwivedi();
