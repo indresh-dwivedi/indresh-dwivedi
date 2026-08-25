@@ -35,7 +35,7 @@ class IndreshDwivedi {
     }
 
     goal() {
-        return "Learn continuously, build impactful products, and grow as a Software Engineer.";
+        return "Build. Learn. Improve. Repeat.";
     }
 }
 
