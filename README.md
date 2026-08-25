@@ -11,54 +11,30 @@
 class IndreshDwivedi {
     constructor() {
         this.name = "Indresh Dwivedi";
-        this.role = "Full-Stack Developer";
-        this.focus = "Frontend & Backend Development";
-        this.stack = "MERN + TypeScript";
+        this.role = "Aspiring Full-Stack Developer";
+        this.focus = "Building modern web applications";
     }
 
-    get skills() {
+    get techStack() {
         return {
-            frontend: [
-                "HTML",
-                "CSS",
-                "JavaScript",
-                "TypeScript",
-                "React.js",
-                "Tailwind CSS"
-            ],
-
-            backend: [
-                "Node.js",
-                "Express.js",
-                "REST APIs",
-                "JWT Authentication"
-            ],
-
-            database: [
-                "MongoDB",
-                "Mongoose"
-            ],
-
-            tools: [
-                "Git",
-                "GitHub",
-                "Postman"
-            ]
+            frontend: ["JavaScript", "TypeScript", "React.js", "Tailwind CSS"],
+            backend: ["Node.js", "Express.js", "REST APIs"],
+            database: ["MongoDB", "Mongoose"]
         };
     }
 
     currently() {
         return [
-            "🚀 Building Full-Stack MERN projects",
-            "🎨 Improving Frontend skills with React & TypeScript",
-            "⚙️ Deepening Backend & API development",
+            "🚀 Building real-world Full-Stack projects",
+            "🎨 Strengthening Frontend skills with React & TypeScript",
+            "⚙️ Deepening Backend & API development knowledge",
             "☁️ Exploring Cloud & DevOps",
-            "🧩 Learning scalable architecture & System Design"
+            "🧩 Learning scalable systems and System Design"
         ];
     }
 
     goal() {
-        return "Become a skilled Software / Full-Stack Developer";
+        return "Learn continuously, build impactful products, and grow as a Software Engineer.";
     }
 }
 
