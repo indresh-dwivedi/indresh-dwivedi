@@ -29,7 +29,6 @@ class IndreshDwivedi {
             "🚀 Building real-world Full-Stack projects",
             "🎨 Strengthening Frontend skills with React & TypeScript",
             "⚙️ Deepening Backend & API development knowledge",
-            "☁️ Exploring Cloud & DevOps",
             "🧩 Learning scalable systems and System Design"
         ];
     }
