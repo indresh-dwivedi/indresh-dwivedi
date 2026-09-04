@@ -20,7 +20,8 @@ class IndreshDwivedi {
             frontend: ["JavaScript", "TypeScript", "React.js",
                        "Tailwind CSS", "HTML"],
             backend: ["Node.js", "Express.js", "REST APIs", "JWT"],
-            database: ["MongoDB", "Mongoose", "SQL", "MySql"]
+            database: ["MongoDB", "Mongoose", "SQL", "MySql"],
+            tools: ["Git", "GitHub", "Postman"]
         };
     }
 
