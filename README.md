@@ -17,7 +17,7 @@ class IndreshDwivedi {
 
     get techStack() {
         return {
-            frontend: ["JavaScript", "TypeScript", "React.js"],
+            frontend: ["JavaScript", "TypeScript", "React.js", "Next.js"],
             backend: ["Node.js", "Express.js", "REST APIs", "JWT"],
             database: ["MongoDB", "Mongoose", "SQL", "MySql"],
             tools: ["Git", "GitHub", "Postman"]
