@@ -33,8 +33,8 @@ class IndreshDwivedi {
         ];
     }
 
-    goal() {
-        return "Build. Learn. Improve. Repeat.";
+    mindset() {
+        return "Build with purpose. Learn deeply. Improve continuously.";
     }
 }
 
