@@ -39,9 +39,3 @@ class IndreshDwivedi {
 }
 
 const indresh = new IndreshDwivedi();
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,git,github,postman" />
-</p>
