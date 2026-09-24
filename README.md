@@ -38,4 +38,21 @@ class IndreshDwivedi {
     }
 }
 
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
+</p>
+
+### ⚙️ Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### 🔧 Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
+</p>
 const indresh = new IndreshDwivedi();
+
