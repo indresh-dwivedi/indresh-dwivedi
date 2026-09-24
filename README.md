@@ -38,6 +38,8 @@ class IndreshDwivedi {
     }
 }
 
+const indresh = new IndreshDwivedi();
+
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
@@ -54,5 +56,3 @@ class IndreshDwivedi {
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,postman" />
 </p>
-const indresh = new IndreshDwivedi();
-
