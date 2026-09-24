@@ -39,3 +39,13 @@ class IndreshDwivedi {
 }
 
 const indresh = new IndreshDwivedi();
+<!---->
+## Tech Stack
+ 
+<p>
+  <img src="./assets/icons/react.svg" height="40" alt="React" title="React" />
+  <img src="./assets/icons/typescript.svg" height="40" alt="TypeScript" title="TypeScript" />
+  <img src="./assets/icons/nodejs.svg" height="40" alt="Node.js" title="Node.js" />
+  <img src="./assets/icons/postgresql.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="./assets/icons/docker.svg" height="40" alt="Docker" title="Docker" />
+</p>
