@@ -27,7 +27,7 @@ class IndreshDwivedi {
     currently() {
         return [
             "🚀 Building real-world Full-Stack projects",
-            "🎨 Strengthening Frontend skills with React & TypeScript",
+            "🎨 Sharpening Frontend skills with React & TypeScript",
             "⚙️ Deepening Backend & API development knowledge",
             "🧩 Learning scalable systems and System Design"
         ];
@@ -40,6 +40,7 @@ class IndreshDwivedi {
 
 const indresh = new IndreshDwivedi();
 ```
+
 ## 🧠 `ls ./tech-stack/ -la`
 
 <div align="center">
