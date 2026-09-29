@@ -71,6 +71,7 @@ const indresh = new IndreshDwivedi();
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Mongoose](https://img.shields.io/badge/Mongoose-0d1117?style=for-the-badge&logo=mongoose&logoColor=880000)
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 
 **〔 Tools · Workflow 〕**
 
