@@ -17,7 +17,7 @@ class IndreshDwivedi {
 
     get techStack() {
         return {
-            frontend: ["JavaScript", "TypeScript", "React.js", "Next.js"],
+            frontend: ["JavaScript", "TypeScript", "React.js"],
             backend: ["Node.js", "Express.js", "REST APIs", "JWT"],
             database: ["MongoDB", "Mongoose", "SQL", "MySql"],
             tools: ["Git", "GitHub", "Postman"]
@@ -34,7 +34,7 @@ class IndreshDwivedi {
     }
 
     mindset() {
-        return "Build with purpose. Learn deeply. Improve continuously.";
+        return "Build. Learn. Improve.";
     }
 }
 
