@@ -12,7 +12,6 @@ class IndreshDwivedi {
     constructor() {
         this.name = "Indresh Dwivedi";
         this.role = "Aspiring Full-Stack Developer";
-        this.focus = "Building modern web applications";
     }
 
     get techStack() {
