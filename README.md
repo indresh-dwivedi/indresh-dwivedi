@@ -11,7 +11,7 @@
 class IndreshDwivedi {
     constructor() {
         this.name = "Indresh Dwivedi";
-        this.role = "Aspiring Full-Stack Developer";
+        this.role = "Aspiring Full-Stack AI Engineer";
     }
 
     get techStack() {
