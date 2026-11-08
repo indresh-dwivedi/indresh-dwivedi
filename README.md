@@ -1,5 +1,25 @@
 <!-- Header Section -->
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=1EF2F7&background=25FF5600&center=true&vCenter=true&random=true&width=435&lines=Hi%F0%9F%91%8B%2C+I+am+Indresh+Dwivedi" alt="Typing SVG" /></a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=13A697&height=180&section=header&text=Indresh%20Dwivedi&fontSize=45&fontColor=fff&fontAlignY=40&desc=Full%20Stack%20Developer%20%C2%B7%20MERN%20Stack%20%C2%B7%20TypeScript&descAlignY=60&descSize=15" width="100%"/>
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1200&color=13A697&center=true&vCenter=true&width=600&lines=console.log('Hello%2C+World!')%3B;Building+with+the+MERN+stack;Learning+TypeScript+%26+DSA;Turning+ideas+into+real-world+projects" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/indresh-dwivedi">
+    <img src="https://img.shields.io/badge/LinkedIn-13A697?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:indresh209721@gmail.com">
+    <img src="https://img.shields.io/badge/Email-13A697?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/indresh-dwivedi">
+    <img src="https://img.shields.io/badge/GitHub-13A697?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
 
 <!-- GIF -->
 <img align="right" alt="Coding" width="355" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
