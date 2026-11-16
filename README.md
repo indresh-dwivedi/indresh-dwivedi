@@ -39,7 +39,7 @@ class IndreshDwivedi {
             frontend: ["JavaScript", "TypeScript", "React.js"],
             backend: ["Node.js", "Express.js", "REST APIs", "JWT"],
             database: ["MongoDB", "PostgreSQL", "SQL", "MySQL"],
-            ai: ["Python", "Machine Learning", "LLMs", "Gene AI"],
+            ai: ["Python", "Machine Learning", "LLMs", "Gen AI"],
             tools: ["Git", "GitHub", "Postman"]
         };
     }
