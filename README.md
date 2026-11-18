@@ -46,10 +46,10 @@ class IndreshDwivedi {
 
     currently() {
         return [
-            "🚀 Building real-world Full-Stack projects",
-            "🎨 Sharpening Frontend skills with React & TypeScript",
-            "⚙️ Deepening Backend & API development knowledge",
-            "🧩 Learning scalable systems and System Design"
+            "🚀 Building real-world Full Stack applications",
+            "🎨 Strengthening Backend & System Design fundamentals",
+            "⚙️ Exploring AI, LLMs & Generative AI",
+            "🧩 Learning to build AI-powered applications"
         ];
     }
 
