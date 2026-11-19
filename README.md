@@ -93,6 +93,13 @@ const indresh = new IndreshDwivedi();
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 
+**〔 Generative AI · LLM Applications 〕**
+
+![RAG](https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logo=elasticsearch&logoColor=00BFB3)
+![Vector Database](https://img.shields.io/badge/Vector_Database-0d1117?style=for-the-badge&logo=pinecone&logoColor=00BFB3)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0d1117?style=for-the-badge&logo=openai&logoColor=FFFFFF)
+![Transformers](https://img.shields.io/badge/Transformers-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+
 **〔 Tools · Workflow 〕**
 
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
