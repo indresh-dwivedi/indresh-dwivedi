@@ -98,7 +98,6 @@ const indresh = new IndreshDwivedi();
 ![RAG](https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logo=elasticsearch&logoColor=00BFB3)
 ![Vector Database](https://img.shields.io/badge/Vector_Database-0d1117?style=for-the-badge&logo=pinecone&logoColor=00BFB3)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0d1117?style=for-the-badge&logo=openai&logoColor=FFFFFF)
-![Transformers](https://img.shields.io/badge/Transformers-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
 
 **〔 Tools · Workflow 〕**
 
